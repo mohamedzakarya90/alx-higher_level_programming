@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-
+# Mohamed Zakarya Farag
 
 
 def magic_calculation(a, b):
